@@ -99,6 +99,7 @@ main .button:hover {
     display: grid;
     grid-gap: 20px;
     grid-template-columns: auto 1fr;
+    margin: 0 40px;
 }
 
 .form__label {
